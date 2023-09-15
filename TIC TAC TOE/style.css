@@ -80,15 +80,6 @@ background-color: rgb(217,180,252);
 #reset:hover{
     background-color: rgb(231, 160, 231);
 }
-/* .line{
-    background-color: black;
-    width: 20vw;
-    height: 3px;
-    position:absolute;
-    
-    /* left: 0; */
-    
-} */
 @media screen and (max-width:950px)
 {
     .gameContainer{
